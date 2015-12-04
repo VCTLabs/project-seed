@@ -1,3 +1,6 @@
+**This is a single-component React template that can be useful for instructional or learning purposes.**
+
+
 # project-seed
 
 A basic starting point for web projects
